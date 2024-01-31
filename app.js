@@ -8,7 +8,7 @@ const fromEuroToDollar = function(valueInEuro) {
 
 const fromDollarToYen = function(valueInDollar) {
     // Convertimos el valor a dólares
-    let valueInYen = valueInDollar * 156.5;
+    let valueInYen = valueInDollar * 146.26;
     // Retornamos el valor en dólares
     return valueInYen;
 }
